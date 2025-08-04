@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim🇮🇩</h1>
 <h3 align="center">4 year's of programming experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibra-cesar&label=Profile%20views&color=0e75b6&style=flat" alt="ibra-cesar" /> </p>
-
 - 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **ibrahimcesaronnova@gmail.com**
